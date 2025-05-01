@@ -64,7 +64,7 @@ Yeni sistemde, arka arkaya alınan 10 ses seviyesi ölçümünden en az 3 tanesi
 <p align="center"><strong>Şekil 1: Temsili Devre</strong></p>
 
 <p align="center">
-  <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figures/GercekDevre.jpg" alt="Şekil 2: Gerçek Devre" width="500"/>
+  <img src="https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figures/GercekDevre.jpg" alt="Şekil 2: Gerçek Devre" width="500" height="400"/>
 </p>
 <p align="center"><strong>Şekil 2: Gerçek Devre</strong></p>
 
