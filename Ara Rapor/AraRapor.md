@@ -57,6 +57,7 @@ Bu fark alma yöntemi sayesinde anlık ses değişimlerine karşı daha istikrar
 Yeni sistemde, arka arkaya alınan 10 ses seviyesi ölçümünden en az 3 tanesi belirlenen dB eşiğini aşıyorsa bu durum gerçek bir gürültü olarak değerlendirilmekte ve ilgili çıktı (LED veya mesaj) tetiklenmektedir.
 
 İlerleyen aşamalarda, bu ses seviyesi sınıflandırmasına göre 2 yeşil, 1 sarı, 1 turuncu ve 1 kırmızı LED ile görsel bir uyarı sistemi kurulacak ve kritik eşikler aşıldığında Telegram üzerinden mesaj gönderilecek şekilde sistem tamamlanacaktır.
+
 ![Şekil 1: Temsili Devre](https://github.com/Aytacus/Sessiz-Kutuphaneler/raw/main/Ara%20Rapor/Figures/TemsiliDevre.jpg)
 **Şekil 1: Temsili Devre**
 
